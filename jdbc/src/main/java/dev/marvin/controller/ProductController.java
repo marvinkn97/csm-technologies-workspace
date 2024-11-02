@@ -72,7 +72,7 @@ public class ProductController {
             };
             System.out.println(msg);
 
-        } while (choice != 8);
+        } while (choice != 6);
     }
 
     private static void renderMenu() {
